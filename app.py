@@ -3,8 +3,8 @@ import pickle
 import numpy as np
 
 
-rf = pickle.load(open("D:/DEPI/Medical Insurance Charges/rf_model.pkl",'rb'))
-one = pickle.load(open("D:/DEPI/Medical Insurance Charges/one.pkl",'rb'))
+rf = pickle.load(open("D://DEPI/Medical Insurance Charges//rf_model.pkl",'rb'))
+one = pickle.load(open("D://DEPI/Medical Insurance Charges//one.pkl",'rb'))
 
 
 def prediction_data(data, model):
