@@ -72,7 +72,7 @@ streamlit run app.py
 
 | Age | Sex   | BMI  | Children | Smoker | Region     |
 |-----|-------|------|----------|--------|------------|
-| 35  | Male  | 27.5 | 2        | Yes    | southeast  |
+| 35  | Male  | 27.5 | 2        | Yes    | southwest  |
 
 ---
 
