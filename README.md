@@ -85,7 +85,7 @@ The app returns the predicted insurance charges based on the input.
 ## 📸 Preview
 
 ![input-image](images/input.png)
-![output-image](images/output (charges).png)
+![output-image](images/output(charges).png)
 
 ---
 
