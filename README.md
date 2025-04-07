@@ -53,7 +53,7 @@ The dataset contains:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AkramGamal1/medical-insurance-prediction.git
-cd "Medical Insurance Charges"
+cd medical-insurance-prediction
 ```
 
 ### 2. Install Dependencies
