@@ -84,8 +84,8 @@ The app returns the predicted insurance charges based on the input.
 
 ## 📸 Preview
 
-![input-image]("D://DEPI//Medical Insurance Charges//input.png")
-![output-image]("D://DEPI//Medical Insurance Charges//output.png")
+![input-image]("images/input.png")
+![output-image]("images/output.png")
 
 ---
 
